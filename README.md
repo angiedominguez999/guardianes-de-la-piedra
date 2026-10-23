@@ -1,4 +1,4 @@
-# Guardianes de la piedra: la ruta STEAM
+# EcoHuellas STEAM-IA
 
 Recurso Educativo Digital (RED) para estudiantes de 6.° a 9.° del Caquetá.
 Incluye la expedición 3D *Senderos Amazónicos* y el Atlas 3D de especies.
